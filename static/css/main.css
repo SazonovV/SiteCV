@@ -1,0 +1,45 @@
+
+
+
+body
+{
+	background-color: #f2f2f2;
+	font-weight: 300;
+	color: #555;
+
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+
+	margin-top: 65px;
+}
+
+a {
+	font-size: 1,15rem;
+}
+
+a:hover, a:focus {
+	text-decoration: none;
+	outline: 0;
+	color: #77ca90;
+}
+
+.centered {
+	text-align: center;
+}
+.line
+{
+	border-bottom: 1px solid #e3e3e3;
+	margin-top: 20px;
+}
+.about-title {
+	float: left;
+	margin-right: 10px;
+
+}
+
+.about-info
+{
+	padding: 2px 0;
+	margin: 0.5rem;
+	opacity: 0.8;
+}
